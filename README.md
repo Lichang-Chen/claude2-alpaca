@@ -2,7 +2,7 @@
 <img src=images/claude-alpaca.png  width="80%" height="60%">
 </p>
 
-# claude2-alpaca: Instruction tuning datasets distilled from Claude2
+# Claude2-Alpaca: Instruction tuning datasets distilled from claude
 
 This is the repo for the Claude2-Alpaca project, which aims to build and share an instruction-following LLaMA model. The repo contains 52k prompts and responses. The repo contains:
 - The 52k claude-2 data used for finetuning
