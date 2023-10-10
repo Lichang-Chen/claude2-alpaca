@@ -30,6 +30,8 @@ We use the generated data to fine-tune 7B/13B LLaMA-2 models and show the result
 | claude_alpaca-7b  | 57.78   | 56.66 | 81.17     | 46.58 | 46.71      | 71.23       | 1066       |
 | claude_alpaca-13b | 61.29   | 61.18 | 84.08     | 55.74 | 44.18      | 78.93       | 1127       |
 
+Compared to the llama2-chat, our models can have better averaged performance.
+
 
 ## Citation
 Please cite the repo if you use the data or code in this repo.
