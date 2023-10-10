@@ -33,6 +33,12 @@ We use the generated data to fine-tune 7B/13B LLaMA-2 models and show the result
 Compared to the llama2-chat, our models can have better averaged performance.
 
 
+## Authors
+All grad students below contributed equally.
+- [Lichang Chen](https://lichang-chen.github.io/)
+- [Khalid Saifullah](https://khalidsaifullaah.github.io/)
+- [Ming Li](https://github.com/MingLiiii)
+
 ## Citation
 Please cite the repo if you use the data or code in this repo.
 ```
@@ -48,11 +54,7 @@ Please cite the repo if you use the data or code in this repo.
 
 
 
-
-
 TODO: 
-- Follow the alpaca repo and write the guidance for using our repo.
-- Release the data and make it public on Huggingface.
 - Evaluation of the model. Alpaca-Eval as well as some benchmarks. (huggingface OPEN-LLM leaderboard or llm-harness repos)
 - Investigate the bias of the current model-based evaluations. GPT-4 and Claude-2 may have preference to its distilled models.
 - Transfer Attack
