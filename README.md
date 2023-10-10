@@ -63,7 +63,7 @@ Please cite the repo if you use the data or code in this repo.
 
 
 ## TODO: 
-[ ] Investigate the bias of the current model-based evaluations. GPT-4 and Claude-2 may have preference to its distilled models.
-[ ] Transfer Attack
-[ ] The synergy of different models distilled from different sources.
-[ ] Project Page
+- Investigate the bias of the current model-based evaluations. GPT-4 and Claude-2 may have preference to its distilled models.
+- Transfer Attack
+- The synergy of different models distilled from different sources.
+- Project Page
