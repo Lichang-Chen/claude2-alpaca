@@ -12,7 +12,14 @@ This is the repo for the Claude2-Alpaca project, which aims to build and share a
 ## Overview
 The current open-sourced instruction tuning datasets usually distilled the data from the GPT-families, e.g., WizardLM distills the data from GPT-3.5-turbo; GPT4LLM distills the data from GPT-4 and Alpaca distills the data from the Text-Davinci-003. We would like to increase the diversity of the instruction tuning dataset and provide the community with more options!
 
-In this repo, we use the same Alpaca 52k prompts to query the [Claude-2](https://www.anthropic.com/index/claude-2) and obtain the claude2-alpaca dataset.
+In this repo, we use the same Alpaca 52k prompts to query the [Claude-2](https://www.anthropic.com/index/claude-2) and obtain the claude2-alpaca dataset. We also include the instruction-tuned LLaMA-2 models, training code for re-implementation, and the results.
+
+
+## Data Generation
+```
+export ANTHROPIC_API_KEY=xxx # export your claude key here
+python generate_data.py
+```
 
 TODO: 
 - Follow the alpaca repo and write the guidance for using our repo.
