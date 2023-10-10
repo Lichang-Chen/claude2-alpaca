@@ -15,6 +15,14 @@ The current open-sourced instruction tuning datasets usually distilled the data 
 In this repo, we use the same Alpaca 52k prompts to query the [Claude-2](https://www.anthropic.com/index/claude-2) and obtain the claude2-alpaca dataset. We also include the instruction-tuned LLaMA-2 models, training code for re-implementation, and the results.
 
 
+## Training
+We incldue the training script for 7B and 13B models:
+```
+# make sure the path in the train.sh is correct (use your own path to llama-2's weight and the output path.)
+bash train.sh
+```
+
+
 ## Data Generation
 ```
 export ANTHROPIC_API_KEY=xxx # export your claude key here
