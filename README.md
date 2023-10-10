@@ -63,6 +63,7 @@ Please cite the repo if you use the data or code in this repo.
 
 
 ## TODO: 
+We include the TODO list for our project. If you also are interested in the following research project, do not hesitate to contact with us (we are open to any kinds of collaborations)!
 - Investigate the bias of the current model-based evaluations. GPT-4 and Claude-2 may have preference to its distilled models.
 - Transfer Attack
 - The synergy of different models distilled from different sources.
