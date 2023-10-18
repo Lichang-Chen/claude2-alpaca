@@ -47,6 +47,8 @@ All grad students below contributed equally.
 - [Khalid Saifullah](https://khalidsaifullaah.github.io/)
 - [Ming Li](https://github.com/MingLiiii)
 
+Special thanks to [Ping-yeh Chiang](https://github.com/Ping-C) for sharing their FSDP model fine-tuning script, which we utilized in this project.
+
 ## Citation
 Please cite the repo if you use the data or code in this repo.
 ```
